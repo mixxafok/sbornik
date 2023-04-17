@@ -1,0 +1,42 @@
+{
+  "expo": {
+    "name": "Сборник песен",
+    "slug": "Sbornik",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/open-book.png",
+    "backgroundColor": "#098f30",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/text1.png",
+      "backgroundColor": "#eeeeee"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "foregroundImage": "./assets/open-book.png",
+      "backgroundColor": "#099f00",
+      "bundleIdentifier": "ipa.Mishafo.SbornikIos"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/open-book.png",
+        "backgroundColor": "#099f00"
+      },
+      "package": "com.Mishafo.SbornikAndroid"
+    },
+    "web": {
+      "favicon": "./assets/open-book.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "f9b1b1f3-c422-479f-b2a2-2b95c604f71b"
+      }
+    }
+  }
+}
