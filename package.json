@@ -2,15 +2,15 @@
   "name": "sbornik",
   "version": "1.0.0",
   "main": "node_modules/expo/AppEntry.js",
-  "homepage": "http://dev.github.io/expo-main",
+  "homepage": "http://dev.github.io/sbornik",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
     "build-web": "react-scripts build",
-    "deploy": "main -d web-build",
-  "predeploy": "expo export:web"
+    "deploy": "gh-pages -d web-build",
+    "predeploy": "expo export:web"
   },
   "dependencies": {
     "@expo/webpack-config": "^0.17.2",
@@ -32,6 +32,7 @@
     "@babel/core": "^7.12.9",
     "@types/react": "^18.0.28",
     "@types/react-native": "^0.71.3",
+    "gh-pages": "^5.0.0",
     "main": "^1000.0.1"
   },
   "private": true
