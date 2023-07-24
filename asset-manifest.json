@@ -1,0 +1,22 @@
+{
+  "files": {
+    "app.js": "/sbornik/static/js/app.22984f9c.chunk.js",
+    "app.js.map": "/sbornik/static/js/app.22984f9c.chunk.js.map",
+    "runtime~app.js": "/sbornik/static/js/runtime~app.ae1948ee.js",
+    "runtime~app.js.map": "/sbornik/static/js/runtime~app.ae1948ee.js.map",
+    "static/js/2.5596841b.chunk.js": "/sbornik/static/js/2.5596841b.chunk.js",
+    "static/js/2.5596841b.chunk.js.map": "/sbornik/static/js/2.5596841b.chunk.js.map",
+    "favicon-16.png": "/sbornik/favicon-16.png",
+    "favicon-32.png": "/sbornik/favicon-32.png",
+    "favicon.ico": "/sbornik/favicon.ico",
+    "index.html": "/sbornik/index.html",
+    "manifest.json": "/sbornik/manifest.json",
+    "serve.json": "/sbornik/serve.json",
+    "static/js/2.5596841b.chunk.js.LICENSE.txt": "/sbornik/static/js/2.5596841b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.ae1948ee.js",
+    "static/js/2.5596841b.chunk.js",
+    "static/js/app.22984f9c.chunk.js"
+  ]
+}
