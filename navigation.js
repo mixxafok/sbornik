@@ -46,6 +46,7 @@ import KraiChydeshu from "./songs/KraiChydeshu.js";
 import HristianinNesiOgon from "./songs/HristianinNesiOgon.js";
 import SkolkoEstiZamanchivih from "./songs/SkolkoEstiZamanchivih.js";
 import TiPrishelVEtotMir from "./songs/TiPrishelVEtotMir.js";
+import VdoliPoViaDolorossa from "./songs/VdoliPoViaDolorossa.js";
 
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { NavigationContainer} from '@react-navigation/native';
@@ -76,6 +77,10 @@ export default function Navigate() {
             <Stack.Screen
                name="VChristeOdnom"
                component = {VChristeOdnom}
+            />
+            <Stack.Screen
+               name="VdoliPoViaDolorossa"
+               component = {VdoliPoViaDolorossa}
             />
             <Stack.Screen
                name="VChasKogdaTryba"
