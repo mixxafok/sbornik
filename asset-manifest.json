@@ -1,22 +1,22 @@
 {
   "files": {
-    "app.js": "/sbornik/static/js/app.b61d790b.chunk.js",
-    "app.js.map": "/sbornik/static/js/app.b61d790b.chunk.js.map",
-    "runtime~app.js": "/sbornik/static/js/runtime~app.ae1948ee.js",
-    "runtime~app.js.map": "/sbornik/static/js/runtime~app.ae1948ee.js.map",
-    "static/js/2.2ed330c4.chunk.js": "/sbornik/static/js/2.2ed330c4.chunk.js",
-    "static/js/2.2ed330c4.chunk.js.map": "/sbornik/static/js/2.2ed330c4.chunk.js.map",
-    "favicon-16.png": "/sbornik/favicon-16.png",
-    "favicon-32.png": "/sbornik/favicon-32.png",
-    "favicon.ico": "/sbornik/favicon.ico",
-    "index.html": "/sbornik/index.html",
-    "manifest.json": "/sbornik/manifest.json",
-    "serve.json": "/sbornik/serve.json",
-    "static/js/2.2ed330c4.chunk.js.LICENSE.txt": "/sbornik/static/js/2.2ed330c4.chunk.js.LICENSE.txt"
+    "app.js": "/static/js/app.38fc8bc6.chunk.js",
+    "app.js.map": "/static/js/app.38fc8bc6.chunk.js.map",
+    "runtime~app.js": "/static/js/runtime~app.27401809.js",
+    "runtime~app.js.map": "/static/js/runtime~app.27401809.js.map",
+    "static/js/2.f1a0ca13.chunk.js": "/static/js/2.f1a0ca13.chunk.js",
+    "static/js/2.f1a0ca13.chunk.js.map": "/static/js/2.f1a0ca13.chunk.js.map",
+    "favicon-16.png": "/favicon-16.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon.ico": "/favicon.ico",
+    "index.html": "/index.html",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "static/js/2.f1a0ca13.chunk.js.LICENSE.txt": "/static/js/2.f1a0ca13.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime~app.ae1948ee.js",
-    "static/js/2.2ed330c4.chunk.js",
-    "static/js/app.b61d790b.chunk.js"
+    "static/js/runtime~app.27401809.js",
+    "static/js/2.f1a0ca13.chunk.js",
+    "static/js/app.38fc8bc6.chunk.js"
   ]
 }
